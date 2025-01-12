@@ -1,4 +1,7 @@
 # UAC-Batpass
+I would really appriciate if you left a star ❤
+
+![stars](https://img.shields.io/github/stars/AnixDevGit/UAC-Batpass.svg?color=red)
 
 ## Usage
 * Download the newest release from [here](https://github.com/AnixDevGit/UAC-Batpass/releases)
